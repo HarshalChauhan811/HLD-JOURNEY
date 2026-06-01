@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 Created By
-***Harshal Chauhan*** 
+***Harshal Chauhan***  
 Backend Developer • System Design • Distributed Systems  
 
 🔗 LinkedIn: https://www.linkedin.com/in/harshal8411  
